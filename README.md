@@ -46,6 +46,6 @@
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=20" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=20&theme=ambient_gradient" alt="Top Langs" />
 </p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=20)](https://github.com/anuraghazra/github-readme-stats) -->
