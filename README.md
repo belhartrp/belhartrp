@@ -18,6 +18,12 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=belhartrp&show_icons=true&theme=vue#gh-light-mode-only" width="90%" /> -->
 
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=20&theme=ambient_gradient" alt="Top Langs" />
+</p> -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=20)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!-- Github Stats Light-->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
@@ -46,10 +52,6 @@
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=20&theme=ambient_gradient" alt="Top Langs" />
-</p>
-
-<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -61,4 +63,4 @@
     />
   </picture>
 </p>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=20)](https://github.com/anuraghazra/github-readme-stats) -->
+
