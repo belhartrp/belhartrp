@@ -19,7 +19,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=belhartrp&show_icons=true&theme=vue#gh-light-mode-only" width="90%" /> -->
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=belhartrp&show_icons=true&theme=ambient_gradient#gh-dark-mode-only" alt="Belhart's GitHub stats - dark mode" />
   </a>
 </p>
