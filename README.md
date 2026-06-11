@@ -53,10 +53,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=20&layout=compact&theme=ambient_gradient"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=20&theme=ambient_gradient"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=20&layout=compact&theme=vue"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=20&theme=vue"
       alt="Top Langs"
     />
   </picture>
