@@ -1,3 +1,4 @@
 ![Belhart Pasaribu](images/3.gif)
 
-[![Belhart's GitHub stats](https://github-readme-stats.vercel.app/api?username=belhartrp&show_icons=true&theme=ambient_gradient&bg_color=30,4facfe,00f2fe)](https://github.com/belhartrp/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=belhartrp&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=belhartrp&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
