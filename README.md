@@ -48,4 +48,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=20&theme=ambient_gradient" alt="Top Langs" />
 </p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=20&layout=compact&theme=ambient_gradient"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=20&layout=compact&theme=vue"
+      alt="Top Langs"
+    />
+  </picture>
+</p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=20)](https://github.com/anuraghazra/github-readme-stats) -->
