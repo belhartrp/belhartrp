@@ -27,7 +27,7 @@
 <!-- Github Stats Light-->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=belhartrp&show_icons=true&card_width=500&show_icons=true&title_color=0090FF&icon_color=0090FF&theme=graywhite#gh-dark-mode-only" alt="Belhart's GitHub stats - dark mode" />
+    <img src="https://github-readme-stats.vercel.app/api?username=belhartrp&show_icons=true&include_all_commits=true&card_width=500&show_icons=true&title_color=0090FF&icon_color=0090FF&theme=graywhite#gh-dark-mode-only" alt="Belhart's GitHub stats - dark mode" />
   </a>
 </p>
 
