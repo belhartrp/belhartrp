@@ -1,4 +1,4 @@
-<!-- ![Belhart Pasaribu](images/3.gif) -->
+![Belhart Pasaribu](images/3.gif)
 
 <!-- [![Belhart's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=belhartrp&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
 
