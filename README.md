@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=00A2E8"/>
 </a>
 
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ECF8E,100:0E75B6&height=3"/>
 
 <!-- Github Stats Light-->
