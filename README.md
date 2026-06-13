@@ -1,11 +1,5 @@
 <!-- header -->
-<div align="center">
-  <h1 style="white-space: nowrap;">
-    <a href="https://belhartrp.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
-      Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> I'm Belhart Rajesky Pasaribu
-    </a>
-  </h1>
-</div>
+<h1 align="center">Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Belhart Rajesky Pasaribu</h1>
 
 <!-- Github Stats Light-->
 <p align="center">
