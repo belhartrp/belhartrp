@@ -1,3 +1,5 @@
+<div align="center">
+
 <!-- header -->
 <h1 align="center">Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Belhart Rajesky Pasaribu</h1>
 
@@ -32,3 +34,7 @@
     />
   </picture>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0E75B6&height=120&section=footer"/>
+
+</div>
