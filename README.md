@@ -12,6 +12,8 @@
 
 <br/><br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ECF8E,100:0E75B6&height=3"/>
+
 <!-- Github Stats Light-->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
