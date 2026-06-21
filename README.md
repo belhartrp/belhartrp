@@ -14,7 +14,7 @@
 
 <!-- GitHub Stats + Most Used Languages Side by Side -->
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=belhartrp&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=ambient_gradient&hide_border=false">
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=belhartrp&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=ambient_gradient&hide_border=true">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belhartrp&show_icons=true&rank_icon=percentile&include_all_commits=true&title_color=0090FF&icon_color=0090FF&theme=graywhite&hide_border=true" alt="Belhart's GitHub stats"/>
 </picture>
 <picture>
