@@ -24,10 +24,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=belhartrp&show_icons=true&rank_icon=percentile&width=500&include_all_commits=true&show_icons=true&theme=ambient_gradient#gh-dark-mode-only" alt="Belhart's GitHub stats - dark mode" />
   </a>
-</p>
-
-<!-- Most Used Languages -->
-<p align="center">
+</p><p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
