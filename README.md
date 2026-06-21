@@ -31,7 +31,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=17&theme=ambient_gradient"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=17&theme=ambient_gradient&layout=compact"
     />
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=180&theme=default"
