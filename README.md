@@ -34,7 +34,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=17&theme=ambient_gradient&layout=compact"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=180&theme=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=180&theme=default"
       alt="Top Langs"
     />
   </picture>
