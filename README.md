@@ -19,7 +19,7 @@
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=8&layout=compact&theme=ambient_gradient&hide_border=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=8&title_color=0090FF&layout=compact&theme=graywhite&stats_format=bytes&hide_border=true" alt="Top Langs"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=8&title_color=0090FF&layout=compact&theme=graywhite&stats_format=percentages&hide_border=true" alt="Top Langs"/>
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0E75B6&height=120&section=footer"/>
