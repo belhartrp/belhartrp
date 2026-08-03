@@ -14,12 +14,12 @@
 
 <!-- GitHub Stats + Most Used Languages Side by Side -->
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=belhartrp&show_icons=true&rank_icon=percentile&theme=ambient_gradient&include_all_commits=true&hide_border=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=belhartrp&show_icons=true&rank_icon=percentile&include_all_commits=true&title_color=0090FF&icon_color=0090FF&theme=graywhite" alt="Belhart's GitHub stats"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=belhartrp&show_icons=true&rank_icon=percentile&theme=ambient_gradient&include_all_commits=true&hide_border=true">
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=belhartrp&show_icons=true&rank_icon=percentile&include_all_commits=true&title_color=0090FF&icon_color=0090FF&theme=graywhite" alt="Belhart's GitHub stats"/>
 </picture>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=8&layout=compact&theme=ambient_gradient&hide_border=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhartrp&langs_count=8&title_color=0090FF&layout=compact&theme=graywhite&stats_format=percentages&hide_border=true&hide_border=true" alt="Top Langs"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=belhartrp&langs_count=8&layout=compact&theme=ambient_gradient&hide_border=true">
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=belhartrp&langs_count=8&title_color=0090FF&layout=compact&theme=graywhite&stats_format=percentages&hide_border=true&hide_border=true" alt="Top Langs"/>
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0E75B6&height=120&section=footer"/>
