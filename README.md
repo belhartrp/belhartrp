@@ -14,8 +14,8 @@
 
 <!-- GitHub Stats + Most Used Languages Side by Side -->
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=belhartrp&show_icons=true&rank_icon=percentile&theme=ambient_gradient&include_all_commits=true&hide_border=false">
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=belhartrp&show_icons=true&rank_icon=percentile&include_all_commits=true&title_color=0090FF&icon_color=0090FF&theme=graywhite" alt="Belhart's GitHub stats"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=belhartrp&show_icons=true&rank_icon=percentile&theme=ambient_gradient&include_all_commits=true&hide_border=true">
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=belhartrp&show_icons=true&rank_icon=percentile&include_all_commits=true&title_color=0090FF&icon_color=0090FF&theme=graywhite&hide_border=true" alt="Belhart's GitHub stats"/>
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=belhartrp&langs_count=8&layout=compact&theme=ambient_gradient&hide_border=true">
